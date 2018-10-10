@@ -3,16 +3,16 @@
   "description": "Pandorabots HTML interface with Node.js backend",
   "env": {
     "PANDORABOTS_APP_ID": {
-      "description": "Your Pandorabots application ID"
+      "description": "unab61d157"
     },
     "PANDORABOTS_USER_KEY": {
-      "description": "Your Pandorabots user key"
+      "description": "6c5b903b2d974a66e592868dd843ec0e"
     },
     "PANDORABOTS_BOTNAME": {
-      "description": "The name of the bot you'd like to connect to"
+      "description": "Omnatrix"
     },
     "PANDORABOTS_URL": {
-      "description": "The fully qualified URL of the Pandorabots API",
+      "description": "https://home.pandorabots.com/directory/QdMgwRyQHJo0LWhwRvWPc5M-k-NqqBPip1Aa6H1YfuKhWFts5x33FM5YOnh5VEWGDyDbNfQJ8ko~/",
       "value": "https://aiaas.pandorabots.com"
     }
   }
